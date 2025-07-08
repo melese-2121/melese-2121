@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <em>"I don't just build apps — I craft digital experiences with a touch of coffee and a lot of Flutter!" ☕🚀</em>
+  <em>"I don't just build apps — I craft digital experiences with a touch of coffee and a lot of Flutter!" ☕</em>
 </p>
 
 <p align="center">
@@ -18,20 +18,20 @@ Hi, I’m **Melese Ayen** – a passionate **Mobile App Developer** focused on b
 
 ### 🚀 What I Do
 
-- 📱 **Flutter App Development** – Native-quality apps for iOS & Android  
-- ⚡ **FlutterFlow Projects** – Rapid development with animations & custom logic  
-- 🔥 **Firebase / Supabase** – Real-time databases, authentication, and cloud functions  
-- 🎨 **UI/UX Design** – Pixel-perfect layouts and intuitive navigation  
-- 🔌 **Custom Features & API Integration** – Bringing your ideas to life
+-  **Flutter App Development** – Native-quality apps for iOS & Android  
+-  **FlutterFlow Projects** – Rapid development with animations & custom logic  
+-  **Firebase / Supabase** – Real-time databases, authentication, and cloud functions  
+-  **UI/UX Design** – Pixel-perfect layouts and intuitive navigation  
+-  **Custom Features & API Integration** – Bringing your ideas to life
 
 ---
 
 ### 💼 Why Choose Me?
 
-- ✅ 3+ years of experience in mobile development  
-- ✅ Real-world apps published on the Play Store  
-- ✅ Clean, maintainable, and scalable code  
-- ✅ Comfortable with both code and visual (low-code) development
+-  3+ years of experience in mobile development  
+-  Real-world apps published on the Play Store  
+-  Clean, maintainable, and scalable code  
+-  Comfortable with both code and visual (low-code) development
 
 ---
 
@@ -52,9 +52,9 @@ Check out some of my featured work:
 
 ### 🤝 Let’s Connect
 
-- 📧 **Email**: melese.ayen.dev@gmail.com  
-- 💼 **Upwork**: [View Profile](https://www.upwork.com/freelancers/~01df37bb449b1102cb?mp_source=share)  
-- 🔗 **LinkedIn**: [linkedin.com/in/melese-coder](https://www.linkedin.com/in/melese-coder)
+-  **Email**: melese.ayen.dev@gmail.com  
+-  **Upwork**: [View Profile](https://www.upwork.com/freelancers/~01df37bb449b1102cb?mp_source=share)  
+-  **LinkedIn**: [linkedin.com/in/melese-coder](https://www.linkedin.com/in/melese-coder)
 
 ---
 
