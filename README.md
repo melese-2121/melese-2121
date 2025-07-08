@@ -53,8 +53,8 @@ Check out some of my featured work:
 ### 🤝 Let’s Connect
 
 - **Email**: <a href="mailto:melese.ayen.dev@gmail.com" target="_blank" rel="noopener noreferrer">melese.ayen.dev@gmail.com</a>  
-- **Upwork**: <a href="https://www.upwork.com/freelancers/~01df37bb449b1102cb?mp_source=share" target="_blank" rel="noopener noreferrer">View Profile</a>  
 - **LinkedIn**: <a href="https://www.linkedin.com/in/melese-coder" target="_blank" rel="noopener noreferrer">linkedin.com/in/melese-coder</a>
+- **Upwork**: <a href="https://www.upwork.com/freelancers/~01df37bb449b1102cb?mp_source=share" target="_blank" rel="noopener noreferrer">View Profile</a>  
 
 ---
 
