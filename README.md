@@ -38,23 +38,23 @@ Hi, I’m **Melese Ayen** – a passionate **Mobile App Developer** focused on b
 ### 🛠️ Tech Stack
 
 | Languages       | Frameworks         | Backend                 | Tools                            |
-|------------------|---------------------|--------------------------|----------------------------------|
-| Dart, JavaScript | Flutter, FlutterFlow | Firebase, Supabase, Node.js | Git, REST APIs, Riverpod, Provider, BLoC |
+|-----------------|--------------------|-------------------------|---------------------------------|
+| Dart, JavaScript| Flutter, FlutterFlow| Firebase, Supabase, Node.js | Git, REST APIs, Riverpod, Provider, BLoC |
 
 ---
 
 ### 🌐 Portfolio
 
 Check out some of my featured work:  
-🔗 [melese-portfolio1.onrender.com](https://melese-portfolio1.onrender.com/)
+🔗 <a href="https://melese-portfolio1.onrender.com" target="_blank" rel="noopener noreferrer">melese-portfolio1.onrender.com</a>
 
 ---
 
 ### 🤝 Let’s Connect
 
-- **Email**: melese.ayen.dev@gmail.com  
-- **Upwork**: [View Profile](https://www.upwork.com/freelancers/~01df37bb449b1102cb?mp_source=share)  
-- **LinkedIn**: [linkedin.com/in/melese-coder](https://www.linkedin.com/in/melese-coder)
+- **Email**: <a href="mailto:melese.ayen.dev@gmail.com" target="_blank" rel="noopener noreferrer">melese.ayen.dev@gmail.com</a>  
+- **Upwork**: <a href="https://www.upwork.com/freelancers/~01df37bb449b1102cb?mp_source=share" target="_blank" rel="noopener noreferrer">View Profile</a>  
+- **LinkedIn**: <a href="https://www.linkedin.com/in/melese-coder" target="_blank" rel="noopener noreferrer">linkedin.com/in/melese-coder</a>
 
 ---
 
