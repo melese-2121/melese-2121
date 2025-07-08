@@ -12,33 +12,33 @@
 
 ### 📱 About Me
 
-Hi, I’m **Melese Ayen** – a passionate **Mobile App Developer** focused on building smooth, responsive, and scalable mobile apps using **Flutter** and **FlutterFlow**. I turn ideas into beautiful digital products that are fast, functional, and ready for the real world.
+Hi, I’m **Melese Ayen** – a passionate **Mobile App Developer** focused on building smooth, responsive, and scalable mobile applications using **Flutter** and **FlutterFlow**. I turn ideas into beautiful digital products that are fast, functional, and ready for the real world.
 
 ---
 
 ### 🚀 What I Do
 
--  **Flutter App Development** – Native-quality apps for iOS & Android  
--  **FlutterFlow Projects** – Rapid development with animations & custom logic  
--  **Firebase / Supabase** – Real-time databases, authentication, and cloud functions  
--  **UI/UX Design** – Pixel-perfect layouts and intuitive navigation  
--  **Custom Features & API Integration** – Bringing your ideas to life
+- **Flutter App Development** – Native-quality apps for iOS & Android  
+- **FlutterFlow Projects** – Rapid development with animations & custom logic  
+- **Firebase / Supabase** – Real-time databases, authentication, and cloud functions  
+- **UI/UX Design** – Pixel-perfect layouts with intuitive navigation  
+- **Custom Features & API Integration** – Bringing your ideas to life
 
 ---
 
 ### 💼 Why Choose Me?
 
--  3+ years of experience in mobile development  
--  Real-world apps published on the Play Store  
--  Clean, maintainable, and scalable code  
--  Comfortable with both code and visual (low-code) development
+- 3+ years of experience in mobile development  
+- Real-world apps published on the Play Store  
+- Clean, maintainable, and scalable code  
+- Proficient in both code-based and visual (low-code) development
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Language | Frameworks | Backend | Tools |
-|----------|------------|---------|-------|
+| Languages       | Frameworks         | Backend                 | Tools                            |
+|------------------|---------------------|--------------------------|----------------------------------|
 | Dart, JavaScript | Flutter, FlutterFlow | Firebase, Supabase, Node.js | Git, REST APIs, Riverpod, Provider, BLoC |
 
 ---
@@ -52,9 +52,9 @@ Check out some of my featured work:
 
 ### 🤝 Let’s Connect
 
--  **Email**: melese.ayen.dev@gmail.com  
--  **Upwork**: [View Profile](https://www.upwork.com/freelancers/~01df37bb449b1102cb?mp_source=share)  
--  **LinkedIn**: [linkedin.com/in/melese-coder](https://www.linkedin.com/in/melese-coder)
+- **Email**: melese.ayen.dev@gmail.com  
+- **Upwork**: [View Profile](https://www.upwork.com/freelancers/~01df37bb449b1102cb?mp_source=share)  
+- **LinkedIn**: [linkedin.com/in/melese-coder](https://www.linkedin.com/in/melese-coder)
 
 ---
 
