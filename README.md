@@ -21,7 +21,6 @@ Hi, I’m **Melese Ayen** – a passionate **Mobile App Developer** focused on b
 - **Flutter App Development** – Native-quality apps for iOS & Android  
 - **FlutterFlow Projects** – Rapid development with animations & custom logic  
 - **Firebase / Supabase** – Real-time databases, authentication, and cloud functions  
-- **UI/UX Design** – Pixel-perfect layouts with intuitive navigation  
 - **Custom Features & API Integration** – Bringing your ideas to life
 
 ---
