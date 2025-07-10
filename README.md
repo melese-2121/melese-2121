@@ -28,7 +28,6 @@ Hi, I’m **Melese Ayen** – a passionate **Mobile App Developer** focused on b
 ### 💼 Why Choose Me?
 
 - 3+ years of experience in mobile development  
-- Real-world apps published on the Play Store  
 - Clean, maintainable, and scalable code  
 - Proficient in both code-based and visual (low-code) development
 
